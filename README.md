@@ -1,7 +1,7 @@
 # ProyectosIA
 Proyectos relacionados al curso de Inteligencia Artificial de la Universidad Latina de Panamá
 
-artificial-intelligence-g5c29cdd48_1280.jpg
+![IA](artificial-intelligence-g5c29cdd48_1280.jpg)
 
 
 
